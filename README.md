@@ -2,7 +2,7 @@
 
 Paste a suspicious SMS or WhatsApp message and get a risk level (Low / Medium / High), the exact red flags found, and what to do next, in English, Tamil or Hindi.
 
-**Live demo:** _add your Streamlit link here_
+**Live demo:** https://scam-detectorgit.streamlit.app/
 
 ## How it works
 - **Pattern rules** for common Indian scams: fake KYC, OTP requests, lottery and job bait, digital arrest threats, courier and electricity fee scams, suspicious links and domains.
